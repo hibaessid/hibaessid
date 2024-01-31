@@ -3,7 +3,7 @@
 🌱 Currently brushing up on coding skills and methodologies, aiming to contribute to open-source projects.
 💻 Check out my GitHub for coding experiments, projects, and collaborative efforts.
 💞️ Keen to join projects aligning with my interests and learn from fellow developers.
-- 📫 Connect with me on LinkedIn [here](www.linkedin.com/in/hiba-essid-736937258) for professional discussions.
+- 📫 Connect with me on LinkedIn [here](https://www.linkedin.com/in/hiba-essid-736937258/?trk=public-profile-join-page) for professional discussions.
 😄 Pronouns: She/Her
 ⚡ Fun fact: Besides coding, I enjoy sharing knowledge and creating a collaborative learning space.
 <!---
